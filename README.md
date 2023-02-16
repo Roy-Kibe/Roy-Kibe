@@ -9,7 +9,7 @@ I'm a Software Engineer and a Content Creator I'm passionate about sharing knowl
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I got lost in the Cloud, and i love it there.
 
-- 🌱 I’m currently learning JavaScript, Open Sourcea and Cloud Engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 🌱 SE student at ALX Africa
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or Cloud Engineering. (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing roygithara6@gmail.com
