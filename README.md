@@ -23,7 +23,7 @@
 
 
 
- [![Linkedin Badge](https://img.shields.io/badge/-RoyKibe-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roy-githara-60634322a/)](https://www.linkedin.com/in/roy-githara-60634322a/) ![Twitter Badge](https://img.shields.io/badge/-RoyKibe-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/RoyGithara)
+ [![Linkedin Badge](https://img.shields.io/badge/-RoyKibe-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roy-githara-60634322a/)]([https://www.linkedin.com/in/roy-githara-60634322a/](https://www.linkedin.com/in/roy-kibe/)) ![Twitter Badge](https://img.shields.io/badge/-RoyKibe-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/RoyGithara)
 
 
 
